@@ -1,0 +1,105 @@
+{
+   "courses":[
+    {
+      "id": 1,
+      "title": "Introduction to Python",
+      "slug": "introduction-to-python",
+      "description": "Learn Python programming from basics to advanced.",
+      "price": 49.99,
+      "instructor": "Jane Doe",
+      "isFeatured": true,
+      "image":"https://pythonprinciples.com/images/round-python-logo.png"
+    },
+    {
+      "id": 2,
+      "title": "Web Development Bootcamp",
+      "slug": "web-development-bootcamp",
+      "description": "A comprehensive course on HTML, CSS, and JavaScript.",
+      "price": 59.99,
+      "instructor": "John Smith",
+      "isFeatured": true,
+      "image": "https://images.credly.com/images/30e7936d-76e0-48d6-b4e4-600def2c9190/virtual-product-bundle-web-development-bootcamp-sp.png"
+    },
+    {
+      "id": 3,
+      "title": "Data Science with R",
+      "slug": "data-science-with-r",
+      "description": "Master data analysis and visualization with R.",
+      "price": 69.99,
+      "instructor": "Alice Johnson",
+      "isFeatured": false,
+      "image": "https://cdn-icons-png.flaticon.com/512/5408/5408783.png"
+    },
+    {
+      "id": 4,
+      "title": "Machine Learning Essentials",
+      "slug": "machine-learning-essentials",
+      "description": "Understand the basics of machine learning and algorithms.",
+      "price": 79.99,
+      "instructor": "Bob Williams",
+      "isFeatured": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYl4audmEvrOTnYMK43XMAhN5cSmC9qYd7Aw&s"
+    },
+    {
+      "id": 5,
+      "title": "Graphic Design for Beginners",
+      "slug": "graphic-design-for-beginners",
+      "description": "Learn the fundamentals of graphic design.",
+      "price": 39.99,
+      "instructor": "Eve Brown",
+      "isFeatured": false,
+      "image": "https://example.com/images/graphicdesign.jpg"
+    },
+    {
+      "id": 6,
+      "title": "React.js Complete Guide",
+      "slug": "reactjs-complete-guide",
+      "description": "Deep dive into React.js and build dynamic web applications.",
+      "price": 89.99,
+      "instructor": "Tom Anderson",
+      "isFeatured": true,
+      "image": "https://example.com/images/reactjs.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Digital Marketing Basics",
+      "slug": "digital-marketing-basics",
+      "description": "Introduction to digital marketing strategies and tools.",
+      "price": 29.99,
+      "instructor": "Sara White",
+      "isFeatured": false,
+      "image": "https://example.com/images/marketing.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Advanced Java Programming",
+      "slug": "advanced-java-programming",
+      "description": "Explore advanced concepts of Java programming.",
+      "price": 99.99,
+      "instructor": "Mark Davis",
+      "isFeatured": true,
+      "image": "https://example.com/images/java.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Cybersecurity Fundamentals",
+      "slug": "cybersecurity-fundamentals",
+      "description": "Learn about cybersecurity and protecting digital assets.",
+      "price": 45.99,
+      "instructor": "Chris Green",
+      "isFeatured": false,
+      "image": "https://example.com/images/cybersecurity.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Photography Masterclass",
+      "slug": "photography-masterclass",
+      "description": "Improve your photography skills with expert tips.",
+      "price": 55.99,
+      "instructor": "Nina King",
+      "isFeatured": true,
+      "image": "https://example.com/images/photography.jpg"
+    }
+  ]
+  
+}
